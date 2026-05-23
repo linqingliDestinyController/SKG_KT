@@ -20,5 +20,6 @@ benchmark dataset with auxiliary information."[1] to download this dataset. For 
 fine-grained and multi-aspect knowledge repository for improving cognitive student modeling in moocs."[2] to download this dataset. 
 
 # Reference papers
-[1]Liu, Zitao, et al. "Xes3g5m: A knowledge tracing benchmark dataset with auxiliary information." Advances in Neural Information Processing Systems 36 (2023): 32958-32970.
+[1]Liu, Zitao, et al. "Xes3g5m: A knowledge tracing benchmark dataset with auxiliary information." Advances in Neural Information Processing Systems 36 (2023): 32958-32970. 
+
 [2]Yu, Jifan, et al. "MoocRadar: A fine-grained and multi-aspect knowledge repository for improving cognitive student modeling in MOOCs." Proceedings of the 46th International ACM SIGIR Conference on Research and Development in Information Retrieval. 2023.
