@@ -4,3 +4,6 @@ This is the demo code for the paper: SKG-KT: Semantic Knowledge Graph Constructi
 # Model Structure
 ![main](main.png)
 
+# Package Requirements
+Please refer to the requirements.txt in the code.
+
