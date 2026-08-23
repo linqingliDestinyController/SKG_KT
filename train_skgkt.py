@@ -413,9 +413,9 @@ def main():
         args.cmd = "train"
 
     # ----- Paths -----
-    path_text = "./Annonation/datasets/xes3g5ml/text_info.jsonl"
-    path_data = "./Annonation/datasets/xes3g5ml/xes3g5m_large.csv"
-    path_kg = "./Annonation/datasets/xes3g5ml/kg_all.json"
+    path_text = "Your text information"
+    path_data = "Your datasets"
+    path_kg = "Your knowledge graphs"
 
     with open(path_kg, "r", encoding="utf-8") as f:
         kgs = json.load(f)
