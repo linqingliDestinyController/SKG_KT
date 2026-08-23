@@ -1,5 +1,5 @@
 # SKG_KT
-This is the demo code for the paper: SKG-KT: Semantic Knowledge Graph Construction and Reasoning for Knowledge Tracing by Large Language Models
+This is the demo training code for the paper: SKG-KT: Semantic Knowledge Graph Construction and Reasoning for Knowledge Tracing by Large Language Models. For simplicity, we directly give the knowledge graph for all exercises without the reasoning process.
 
 # Model Structure
 ![main](main.png)
